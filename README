@@ -1,3 +1,10 @@
+Disclaimer:
+------
+You can generate a V2 .anon address with aschalot, but it’s not recommended. 
+Instead you can generate a V3 .anon address using “ed25519” with the “mkp224o” tool.
+https://github.com/cl0ten/mkp224o
+
+
 About:
 ------
 
