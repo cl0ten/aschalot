@@ -3,7 +3,7 @@
 # If you modify the Makefile, please make sure it works with
 # both BSD and GNU makes. Avoid the fancy features.
 
-PROG1		?= eschalot
+PROG1		?= aschalot
 PROG2		?= worgen
 PROG3		?= typecard
 
